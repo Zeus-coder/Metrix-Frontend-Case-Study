@@ -1,0 +1,174 @@
+.bar-chart {
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 12px;
+  display: flex;
+  gap: 10px;
+  height: 337px;
+  justify-content: center;
+  padding: 21px 20px;
+  position: relative;
+  width: 321px;
+}
+
+.bar-chart .content {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 24px;
+  height: 291px;
+  position: relative;
+}
+
+.bar-chart .top {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: 100%;
+}
+
+.bar-chart .div-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.bar-chart .marketting {
+  color: var(--black-60);
+  font-family: var(--paragraph-1-medium-font-family);
+  font-size: var(--paragraph-1-medium-font-size);
+  font-style: var(--paragraph-1-medium-font-style);
+  font-weight: var(--paragraph-1-medium-font-weight);
+  letter-spacing: var(--paragraph-1-medium-letter-spacing);
+  line-height: var(--paragraph-1-medium-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.bar-chart .filter-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 7px;
+  position: relative;
+}
+
+.bar-chart .this-week-2 {
+  color: var(--black-10);
+  font-family: var(--label-1-regular-font-family);
+  font-size: var(--label-1-regular-font-size);
+  font-style: var(--label-1-regular-font-style);
+  font-weight: var(--label-1-regular-font-weight);
+  letter-spacing: var(--label-1-regular-letter-spacing);
+  line-height: var(--label-1-regular-line-height);
+  margin-top: -0.5px;
+  position: relative;
+  width: fit-content;
+}
+
+.bar-chart .fi-chevron-down-2 {
+  height: 16px !important;
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+  width: 16px !important;
+}
+
+.bar-chart .key {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+}
+
+.bar-chart .rectangle {
+  background-color: var(--primary-100);
+  border-radius: 6px;
+  height: 8px;
+  position: relative;
+  width: 8px;
+}
+
+.bar-chart .text-wrapper-6 {
+  color: var(--black-20);
+  font-family: var(--label-2-regular-font-family);
+  font-size: var(--label-2-regular-font-size);
+  font-style: var(--label-2-regular-font-style);
+  font-weight: var(--label-2-regular-font-weight);
+  letter-spacing: var(--label-2-regular-letter-spacing);
+  line-height: var(--label-2-regular-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.bar-chart .rectangle-2 {
+  background-color: var(--primary-50);
+  border-radius: 6px;
+  height: 8px;
+  position: relative;
+  width: 8px;
+}
+
+.bar-chart .rectangle-3 {
+  background-color: var(--secondary-100);
+  border-radius: 6px;
+  height: 8px;
+  position: relative;
+  width: 8px;
+}
+
+.bar-chart .group-2 {
+  background-image: url(../../../static/img/ellipse-1-1.png);
+  background-size: 100% 100%;
+  height: 205px;
+  position: relative;
+  width: 205px;
+}
+
+.bar-chart .overlap-group-5 {
+  height: 172px;
+  left: 17px;
+  position: relative;
+  top: 17px;
+  width: 172px;
+}
+
+.bar-chart .ellipse {
+  height: 168px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 86px;
+}
+
+.bar-chart .ellipse-2 {
+  height: 43px;
+  left: 21px;
+  position: absolute;
+  top: 0;
+  width: 66px;
+}
+
+.bar-chart .ellipse-3 {
+  height: 172px;
+  left: 58px;
+  position: absolute;
+  top: 0;
+  width: 114px;
+}

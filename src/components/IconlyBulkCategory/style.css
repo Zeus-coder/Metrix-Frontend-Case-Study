@@ -1,0 +1,33 @@
+.iconly-bulk-category {
+  height: 100%;
+  width: 100%;
+}
+
+.iconly-bulk-category .category {
+  height: 20px;
+  left: 2px;
+  position: relative;
+  top: 2px;
+  width: 20px;
+}
+
+.iconly-bulk-category .overlap-group {
+  height: 20px;
+  position: relative;
+}
+
+.iconly-bulk-category .fill {
+  height: 9px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+
+.iconly-bulk-category .combined-shape {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}

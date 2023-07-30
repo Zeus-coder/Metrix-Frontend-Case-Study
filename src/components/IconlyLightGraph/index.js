@@ -1,0 +1,1 @@
+export { IconlyLightGraph } from "./IconlyLightGraph";

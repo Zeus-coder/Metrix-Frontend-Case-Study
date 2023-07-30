@@ -1,0 +1,1 @@
+export { IconlyBulkCategory } from "./IconlyBulkCategory";

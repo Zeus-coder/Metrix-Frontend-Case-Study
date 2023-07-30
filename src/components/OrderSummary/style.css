@@ -1,0 +1,212 @@
+.order-summary {
+  align-items: flex-start;
+  background-color: #ffffff;
+  border-radius: 12px;
+  display: flex;
+  gap: 10px;
+  padding: 20px;
+  position: relative;
+  width: 423px;
+}
+
+.order-summary .frame-10 {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+}
+
+.order-summary .recent-orders {
+  align-self: stretch;
+  color: var(--black-60);
+  font-family: var(--paragraph-1-medium-font-family);
+  font-size: var(--paragraph-1-medium-font-size);
+  font-style: var(--paragraph-1-medium-font-style);
+  font-weight: var(--paragraph-1-medium-font-weight);
+  letter-spacing: var(--paragraph-1-medium-letter-spacing);
+  line-height: var(--paragraph-1-medium-line-height);
+  margin-top: -1px;
+  position: relative;
+}
+
+.order-summary .frame-11 {
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.order-summary .order-card-instance {
+  align-self: stretch !important;
+  flex: 0 0 auto !important;
+  width: 100% !important;
+}
+
+.order-summary .frame-12 {
+  background-color: #31936e1f !important;
+}
+
+.order-summary .frame-13 {
+  color: var(--actiongreen) !important;
+}
+
+.order-summary .icon-container {
+  background-color: var(--main-background);
+  border: 1px solid;
+  border-color: var(--grey);
+  border-radius: 500px;
+  height: 140px;
+  overflow: hidden;
+  position: relative;
+  width: 140px;
+}
+
+.order-summary .iconly-bulk-bag {
+  height: 60px;
+  left: 40px;
+  position: relative;
+  top: 40px;
+  width: 60px;
+}
+
+.order-summary .bag-2 {
+  height: 50px;
+  left: 8px;
+  position: relative;
+  top: 5px;
+  width: 45px;
+}
+
+.order-summary .combined-shape-4 {
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 12px;
+  width: 45px;
+}
+
+.order-summary .path-2 {
+  height: 12px;
+  left: 10px;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.order-summary .empty-state-content {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+}
+
+.order-summary .description {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+}
+
+.order-summary .no-orders-yet {
+  color: #000000;
+  font-family: var(--subheading-3-medium-font-family);
+  font-size: var(--subheading-3-medium-font-size);
+  font-style: var(--subheading-3-medium-font-style);
+  font-weight: var(--subheading-3-medium-font-weight);
+  letter-spacing: var(--subheading-3-medium-letter-spacing);
+  line-height: var(--subheading-3-medium-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.order-summary .add-products-to-your {
+  color: var(--black-30);
+  font-family: var(--paragraph-2-regular-font-family);
+  font-size: var(--paragraph-2-regular-font-size);
+  font-style: var(--paragraph-2-regular-font-style);
+  font-weight: var(--paragraph-2-regular-font-weight);
+  letter-spacing: var(--paragraph-2-regular-letter-spacing);
+  line-height: var(--paragraph-2-regular-line-height);
+  position: relative;
+  text-align: center;
+  width: 282px;
+}
+
+.order-summary .buttons {
+  align-items: center;
+  background-color: var(--primary);
+  border-radius: 12px;
+  display: flex;
+  gap: 10px;
+  height: 44px;
+  justify-content: center;
+  padding: 17px 16px;
+  position: relative;
+  width: 180px;
+}
+
+.order-summary .label-container {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  justify-content: center;
+  margin-bottom: -7px;
+  margin-top: -7px;
+  position: relative;
+}
+
+.order-summary .fi-plus {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.order-summary .label {
+  color: #ffffff;
+  font-family: var(--paragraph-1-regular-font-family);
+  font-size: var(--paragraph-1-regular-font-size);
+  font-style: var(--paragraph-1-regular-font-style);
+  font-weight: var(--paragraph-1-regular-font-weight);
+  letter-spacing: var(--paragraph-1-regular-letter-spacing);
+  line-height: var(--paragraph-1-regular-line-height);
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.order-summary.empty {
+  height: 726px;
+}
+
+.order-summary.plus-data .frame-10 {
+  align-items: flex-start;
+  gap: 23px;
+}
+
+.order-summary.empty .frame-10 {
+  align-items: center;
+  gap: 160px;
+  justify-content: center;
+}
+
+.order-summary.plus-data .frame-11 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 12px;
+  width: 100%;
+}
+
+.order-summary.empty .frame-11 {
+  align-items: center;
+  display: inline-flex;
+  gap: 40px;
+}

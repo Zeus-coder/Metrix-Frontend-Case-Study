@@ -1,0 +1,1 @@
+export { IconlyLightBag } from "./IconlyLightBag";

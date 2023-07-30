@@ -1,0 +1,1 @@
+export { IconlyBulkHome } from "./IconlyBulkHome";

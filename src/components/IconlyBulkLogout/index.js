@@ -1,0 +1,1 @@
+export { IconlyBulkLogout } from "./IconlyBulkLogout";

@@ -1,0 +1,130 @@
+.order-card {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--stroke);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0px 0px 12px;
+  position: relative;
+  width: 383px;
+}
+
+.order-card .container-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 14px;
+  position: relative;
+  width: 100%;
+}
+
+.order-card .rectangle-4 {
+  height: 49px;
+  object-fit: cover;
+  position: relative;
+  width: 49px;
+}
+
+.order-card .content-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 10px;
+  position: relative;
+}
+
+.order-card .top-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.order-card .iphone {
+  color: var(--black-60);
+  font-family: var(--paragraph-2-regular-font-family);
+  font-size: var(--paragraph-2-regular-font-size);
+  font-style: var(--paragraph-2-regular-font-style);
+  font-weight: var(--paragraph-2-regular-font-weight);
+  letter-spacing: var(--paragraph-2-regular-letter-spacing);
+  line-height: var(--paragraph-2-regular-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.order-card .div-wrapper-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 9px;
+  position: relative;
+}
+
+.order-card .element-sept {
+  color: var(--black-20);
+  font-family: var(--label-1-regular-font-family);
+  font-size: var(--label-1-regular-font-size);
+  font-style: var(--label-1-regular-font-style);
+  font-weight: var(--label-1-regular-font-weight);
+  letter-spacing: var(--label-1-regular-letter-spacing);
+  line-height: var(--label-1-regular-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.order-card .bottom-2 {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.order-card .element-x {
+  color: var(--black-80);
+  font-family: var(--paragraph-2-medium-font-family);
+  font-size: var(--paragraph-2-medium-font-size);
+  font-style: var(--paragraph-2-medium-font-style);
+  font-weight: var(--paragraph-2-medium-font-weight);
+  letter-spacing: var(--paragraph-2-medium-letter-spacing);
+  line-height: var(--paragraph-2-medium-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.order-card .pending-wrapper {
+  align-items: flex-start;
+  background-color: #f57e761f;
+  border-radius: 8px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 2px 15px;
+  position: relative;
+}
+
+.order-card .pending {
+  color: var(--actionred);
+  font-family: var(--label-1-regular-font-family);
+  font-size: var(--label-1-regular-font-size);
+  font-style: var(--label-1-regular-font-style);
+  font-weight: var(--label-1-regular-font-weight);
+  letter-spacing: var(--label-1-regular-letter-spacing);
+  line-height: var(--label-1-regular-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}

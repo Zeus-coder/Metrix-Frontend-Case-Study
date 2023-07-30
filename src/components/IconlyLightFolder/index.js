@@ -1,0 +1,1 @@
+export { IconlyLightFolder } from "./IconlyLightFolder";
